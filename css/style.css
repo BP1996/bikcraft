@@ -4,6 +4,7 @@
 
 /* header  */
 @import url(global/header.css);
+@import url(global/footer.css);
 
 /* introducao */
 @import url(home/introducao.css);
@@ -16,3 +17,6 @@
 
 /* Bicicletas */
 @import url(bicicletas/bicicletas-lista.css);
+
+/* Seguros */
+@import url(seguros/seguros.css);
